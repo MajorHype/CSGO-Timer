@@ -5,7 +5,7 @@ With CSGO TIMER you can get info like how many time is left to the bomb until it
 
 # Disclaimer
 
-You will not get vacced using this, because it uses Valve's public gamestate integration. The program is simply using the information from the CFG file and transforming it into sounds and external visuals that cannot be visually overlayed on top of the fullscreen game.
+You will not get vaced using this, because it uses Valve's public gamestate integration. The program is simply using the information from the CFG file and transforming it into sounds and external visuals that cannot be visually overlayed on top of the fullscreen game.
 It is a tool made available by VALVE.
 
 # How it works ?
