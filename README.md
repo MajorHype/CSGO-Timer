@@ -1,4 +1,4 @@
-![Test Image 4](https://i.imgur.com/Q02Jiaf.jpg)
+![2](https://i.imgur.com/Q02Jiaf.jpg)
 
 # CSGO TIMER
 
