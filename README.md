@@ -49,7 +49,7 @@ For the time being there is no knowned prerequistes to use CSGO TIMER
 
 ## Credits
 
-This program disgned and developed by:
+This program designed and developed by:
 
 https://steamcommunity.com/profiles/76561199044328033
 
