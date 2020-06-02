@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Built With
 
-* [Python](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Python](https://www.python.org/) - The web framework used
 * [Csgo-gsi-python](https://github.com/Erlendeikeland/csgo-gsi-python) - Github CS:GO Game State Integration
 * [Valve Developer Blog](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration) - Valve Guide of CS:GO Game State Integration
 
