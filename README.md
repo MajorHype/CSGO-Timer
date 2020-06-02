@@ -24,9 +24,12 @@ For the time being there is no knowned prerequistes to use CSGO TIMER
 
 ### Installation
 
-*
-*
-*
+* 1º You will need to [download](https://github.com/diogofrancosilva/csgotimer/archive/master.zip) the .exe file 
+* 2º Run the "Installer.exe"
+* 3º After running the "Installer.exe" type the Driver letter (ex: C) that you have your CSGO game installed (what this will to is copy   the "gamestate_integration_GSI.cfg" to you game CFG folder so the game and the program can interact with each other) and press ENTER
+* 4º The CFG file is now inside your CFG folder and is ready to start sending informtion to the CSGO TIMER
+* 5º After you run the Program installer you will not need the "Installer.exe" anymore, so you can delete "Installer.exe" and             "gamestate_integration_GSI.cfg" if you want. (You will only need These two files if you at any time reinstall CSGO, and they are          available to download again)
+* 6º From now on you only need to run "BombTime.exe" to start the program.
 
 ## Built With
 
