@@ -1,8 +1,8 @@
 ![2](https://i.imgur.com/Q02Jiaf.jpg)
 
-# [Download Recommended](https://github.com/diogofrancosilva/csgotimer/archive/master.zip)
-## [Last Release](https://github.com/diogofrancosilva/CSGO-Timer/releases/latest)
-## [All Versions](https://github.com/diogofrancosilva/CSGO-Timer/releases)
+# [Download Recommended](https://github.com/MajorHype/CSGO-Timer/archive/master.zip)
+## [Last Release](https://github.com/MajorHype/CSGO-Timer/releases/latest)
+## [All Versions](https://github.com/MajorHype/CSGO-Timer/releases)
 
 ---
 
