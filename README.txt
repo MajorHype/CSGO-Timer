@@ -1,4 +1,4 @@
-![2](https://i.imgur.com/Q02Jiaf.jpg)
+![1](https://i.imgur.com/Q02Jiaf.jpg)
 
 # [Download Recommended](https://github.com/MajorHype/CSGO-Timer/archive/master.zip)
 ## [Last Release](https://github.com/MajorHype/CSGO-Timer/releases/latest)
