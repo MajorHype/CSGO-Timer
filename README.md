@@ -8,12 +8,12 @@
 
 # CSGO TIMER
 
-CSGO TIMER is a project/program created to give a csgo player info about the bomb state.
-With CSGO TIMER you can get info like how many time is left to the bomb until it explode, so you can judge if you should or not try to defuse it, try to win the round, you simply walk away.
+CSGO TIMER is a project/program created to give csgo players info about the bomb state.
+With CSGO TIMER you can get info like how much time remains until the bomb explode, giving you the ability to judge if you should or should not try to defuse it maybe try to win the round or simply walk away.
 
 # Disclaimer
 
-You will not get vaced using this, because it uses Valve's public gamestate integration. The program is simply using the information from the CFG file and transforming it into sounds and external visuals that cannot be visually overlayed on top of the fullscreen game.
+You will not get VAC ban using this, because it uses Valve's public gamestate integration. The program simply uses the information from the CFG file and transforming it into sounds and external visuals that cannot be visually overlayed on top of the fullscreen game.
 It is a tool made available by VALVE.
 
 Explained in VALVE´S words:
@@ -26,7 +26,7 @@ These instructions will get you setup with the project and get you ready to run 
 
 ### Prerequisites
 
-For the time being there is no knowned prerequistes to use CSGO TIMER
+For now you can only use the program if your operating system is windows. Later versions will be available to all operating systems.
 
 ### Installation
 
